@@ -26,7 +26,7 @@ if (iceCream === "chocolate") {
   }); */
   
 
-/*   const myImage = document.querySelector("img");
+  const myImage = document.querySelector("img");
 
   // click change image
 myImage.onclick = () => {
@@ -36,11 +36,11 @@ myImage.onclick = () => {
   } else {
     myImage.setAttribute("src", "images/firefox-icon.png");
   }
-}; */
+};
 
 //Adding a personalized welcome message
 
-let myButton = document.querySelector("button");
+/* let myButton = document.querySelector("button");
 let myHeading = document.querySelector("h1");
   
 myButton.onclick = () => {
@@ -55,7 +55,7 @@ myButton.onclick = () => {
       localStorage.setItem("name", myName);
       myHeading.textContent = `Mozilla is cool, ${myName}`;
     }
-  }
+  } */
   
 
  
