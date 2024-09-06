@@ -43,7 +43,8 @@ padding: 50px;
     background-color:rgb(113, 156, 26);
     /* width: 10px; */
     width:calc(80% - 33px);
-height: 300px;
+    height: 300px;
+    font-family: cursive;
 }
 .outer {
     border: 5px solid black;
